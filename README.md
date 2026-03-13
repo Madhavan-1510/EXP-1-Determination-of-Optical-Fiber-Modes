@@ -63,4 +63,9 @@ Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
 ## Tabulation
+<img width="993" height="1600" alt="image" src="https://github.com/user-attachments/assets/c1f50903-adbd-464f-a88f-321f17e40e6d" />
+<img width="843" height="1378" alt="image" src="https://github.com/user-attachments/assets/4de4c328-303d-4558-99ad-71cca314c178" />
+
+
 ## Result
+Thus the fibre supports 191 modes
